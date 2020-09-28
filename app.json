@@ -1,0 +1,12 @@
+{
+  "name": "react-native-navegacao",
+  "displayName": "react-native-navegacao",
+  "expo": {
+    "name": "react-native-navegacao",
+    "slug": "react-native-navegacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
